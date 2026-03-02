@@ -61,6 +61,9 @@ startup_stm32f103xb.s
 # ASMM sources
 ASMM_SOURCES = 
 
+# gcc toolchain path
+GCC_PATH = /opt/arm-gnu-toolchain-15.2.rel1-x86_64-arm-none-eabi/bin/
+
 
 
 #######################################
